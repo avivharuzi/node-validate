@@ -1,4 +1,4 @@
-const validate = require('./index');
+const Validate = require('./index');
 
 const user = {
     username: 'John',
@@ -9,6 +9,4 @@ const user = {
     isActive: true
 };
 
-validateUser = new validate(user);
-
-console.log(validateUser);
+validateUser = new Validate(user);

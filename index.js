@@ -1,3 +1,3 @@
-const validate = require('./lib/validate');
+const Validate = require('./lib/validate');
 
-module.exports = validate;
+module.exports = Validate;
