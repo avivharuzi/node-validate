@@ -1,0 +1,25 @@
+{
+  "name": "validate",
+  "version": "1.0.0",
+  "description": "a lightweight validation library",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avivharuzi/node-validate.git"
+  },
+  "keywords": [
+    "validation"
+  ],
+  "author": "Aviv Haruzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/avivharuzi/node-validate/issues"
+  },
+  "homepage": "https://github.com/avivharuzi/node-validate#readme"
+}
