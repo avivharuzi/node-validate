@@ -8,5 +8,3 @@ const user = {
     gender: 'male',
     isActive: true
 };
-
-validateUser = new Validate(user);
