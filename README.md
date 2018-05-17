@@ -86,8 +86,6 @@ new Validate(obj, options)
 | errorsWithKey | true |
 | multiErrors | false |
 
-
-
 ## License
 
 [MIT](LICENSE)
