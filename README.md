@@ -30,6 +30,53 @@ if (validateUser.valid) {
 }
 ```
 
+## Api
+
+### new Validate()
+
+valid
+
+invalid
+
+errors
+
+values
+
+### validators
+
+control([validators])
+
+| Name     | Args           |
+| -------- | -------------- |
+| required |
+| regex | regex, message |
+| minLength | len
+| maxLength | len
+| minAndMaxLength | min, max
+| minNumber | min
+| maxNumber | max
+| minAndMaxNumber | min, max
+| alpha |
+| alphaDash |
+| alphaSpaces |
+| alphaNumeric |
+| alphaNumericDash |
+| alphaNumericSpaces |
+| numeric |
+| numericFloat |
+| numericDigits |
+| withoutNumbers |
+| username |
+| password |
+| email |
+| url |
+| ip |
+| slug |
+| time |
+| date |
+| phoneIsrael |
+| xss |
+
 ## License
 
 [MIT](LICENSE)
