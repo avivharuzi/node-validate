@@ -1,5 +1,5 @@
 {
-  "name": "validate",
+  "name": "@avivharuzi/validate",
   "version": "1.0.0",
   "description": "a lightweight validation library",
   "main": "index.js",
