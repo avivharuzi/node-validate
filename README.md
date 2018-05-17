@@ -77,6 +77,17 @@ control([validators])
 | phoneIsrael |
 | xss |
 
+### Options (Object)
+
+new Validate(obj, options)
+
+| Option   | Default        |
+| -------- | -------------- |
+| errorsWithKey | true |
+| multiErrors | false |
+
+
+
 ## License
 
 [MIT](LICENSE)
