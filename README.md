@@ -5,10 +5,14 @@
 
 > a lightweight validation library
 
+## Installation
+
+`npm install @avivharuzi/validate`
+
 ## Usage
 
 ```javascript
-const Validate = require('validate');
+const Validate = require('@avivharuzi/validate');
 
 const user = {
     email: 'john@gmail.com',
