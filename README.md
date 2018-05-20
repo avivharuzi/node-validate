@@ -1,5 +1,8 @@
 # Validate
 
+[![Build Status](https://travis-ci.org/avivharuzi/node-validate.svg?branch=master)](https://travis-ci.org/avivharuzi/node-validate)
+![npm](https://img.shields.io/npm/l/express.svg)
+
 > a lightweight validation library
 
 ## Usage
